@@ -9,7 +9,7 @@
       }
     ],
     "vulnerabilityAlerts": {
-      "enabled": false
+      "enabled": true
     },
     "osvVulnerabilityAlerts": true
 }
